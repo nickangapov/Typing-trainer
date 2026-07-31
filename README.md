@@ -17,4 +17,4 @@ A web application for practicing typing skills.
 
 ## Installation
 
-Open `index.html` in your browser.
+Open `index.html` and `result.html` in your browser.
