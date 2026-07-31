@@ -1,4 +1,20 @@
 @font-face {
+    font-family: "Inter";
+    src: url(font/woff/Inter-Regular.woff) format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(font/woff2/Inter-Regular.woff2) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: "Palanquin Dark";
     src: url(font/woff/PalanquinDark-Regular.woff);
 }
